@@ -46,6 +46,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Source files cpp\DataAnalyser.cs" />
+    <Compile Include="Source files cpp\LCDdisplaySmall.cs" />
     <Compile Include="TestBench\TestBench.cs" />
   </ItemGroup>
   <ItemGroup>
